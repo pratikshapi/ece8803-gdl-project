@@ -2,6 +2,9 @@
 Repository to finetune LLaMa2 7 Billion parameter model to generate python code from natural language description of the code.
 
 ## Setup
+We have a GPU requirement of 1x NVIDIA A100 40GB GPU, and 32GB of RAM.
+
+To setup the project, follow the steps below:
 1. Clone the repository
 2. Install the requirements
 ```
